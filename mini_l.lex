@@ -1,5 +1,6 @@
 /*
 	Jesse Garcia cs 152 Project
+	Phase 1
 */
 %{   
    int currLine = 1;
